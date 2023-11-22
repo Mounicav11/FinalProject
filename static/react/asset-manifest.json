@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/react/css/main.14f93f10.css",
+    "main.js": "/static/react/js/main.80e6dcea.js",
+    "js/787.4aca4c83.chunk.js": "/static/react/js/787.4aca4c83.chunk.js",
+    "media/eye_cover.gif": "/static/react/media/eye_cover.77fab68f2da2fd92405f.gif",
+    "media/pikachu_cover.gif": "/static/react/media/pikachu_cover.37921991e91bc1e63f48.gif",
+    "media/interview.gif": "/static/react/media/interview.b560a7987fcddee80958.gif",
+    "../../templates/index.html": "/static/react/../../templates/index.html",
+    "index.html": "/static/react/index.html",
+    "media/index.cjs": "/static/react/media/index.cd351d7c31d0d3fccf96.cjs",
+    "main.14f93f10.css.map": "/static/react/css/main.14f93f10.css.map",
+    "main.80e6dcea.js.map": "/static/react/js/main.80e6dcea.js.map",
+    "787.4aca4c83.chunk.js.map": "/static/react/js/787.4aca4c83.chunk.js.map"
+  },
+  "entrypoints": [
+    "css/main.14f93f10.css",
+    "js/main.80e6dcea.js"
+  ]
+}
